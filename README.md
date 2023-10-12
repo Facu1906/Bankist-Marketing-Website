@@ -2,9 +2,9 @@
 
 ## Bankist-Marketing-Website
 
-## URL: https://calm-froyo-7ff81d.netlify.app/
+### URL: https://calm-froyo-7ff81d.netlify.app/
 
-### In this project I worked with:
+#### In this project I worked with:
 
 - Advanced DOM
 - Advanced Events
